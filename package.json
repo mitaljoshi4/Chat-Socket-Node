@@ -1,0 +1,19 @@
+{
+  "name": "chatsocketnode",
+  "version": "1.0.0",
+  "description": "Node server script to live chat using socket",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "socket"
+  ],
+  "author": "Mital Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
